@@ -1,0 +1,6 @@
+name: HellSign
+main: se.fronix.hellsign.HellSign
+version: 0.1
+description: >
+                Link consol commands to signs
+commands:
